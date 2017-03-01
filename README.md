@@ -14,7 +14,7 @@ this.levelReducer.renderTo(targetComponent: string, ...renderMethods/renderEleme
 ```
 
 ## Example
-You could simple check the Example folder or take a look the follow codes: 
+You could simply check the Example folder or take a look the follow codes: 
 ```js
 class App extends Component{
 
